@@ -118,6 +118,13 @@ body {
   }
 }
 
+@media screen and (min-width: 910px) and (max-width: 1250px) {
+  #title{
+      font-size: 15rem;
+      top:6%;
+  }
+}
+
 
 #title:hover {
   transform: scale(1.2);
